@@ -3,6 +3,3 @@ React, TypeScript, Tailwind e Next.js 13, TypeScript, Node.js e Express; usando 
 
 >convertional
 >commmit
-
-edited
-hi
